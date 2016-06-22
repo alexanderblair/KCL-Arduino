@@ -1,0 +1,2 @@
+This is where I store any designs, ideas, code and testing scripts that I am going to be using for createing the low power 
+arduino solution, as well as my notes (when and if I type them up).
